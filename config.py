@@ -1,0 +1,6 @@
+customhost = "mydbinstance.clmsqok4w3yl.us-east-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "dikshaverma"
+customdb = "student"
+custombucket = "student-details2"
+customregion = "us-east-1"
